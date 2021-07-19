@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\bin\Debug\Kanchon'sMediaPlayer.exe.config
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\bin\Debug\Kanchon'sMediaPlayer.exe
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\bin\Debug\Kanchon'sMediaPlayer.pdb
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\obj\Debug\Kanchon_sMediaPlayer.FormMediaPlayerform.resources
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\obj\Debug\Kanchon_sMediaPlayer.Properties.Resources.resources
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\obj\Debug\Kanchon_sMediaPlayer.Songs.resources
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\obj\Debug\Kanchon_sMediaPlayer.Videos.resources
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\obj\Debug\Kanchon'sMediaPlayer.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\obj\Debug\Kanchon'sMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\obj\Debug\Kanchon'sMediaPlayer.exe
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\obj\Debug\Kanchon'sMediaPlayer.pdb
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\obj\Debug\Kanchon'sMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\source\repos\Kanchon'sMediaPlayer\Kanchon'sMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
